@@ -1,0 +1,47 @@
+# ReactHookForm
+
+A simple React application demonstrating form handling and validation using **React Hook Form**.  
+This project focuses on clean form management, minimal re-renders, and easy validation.
+
+---
+
+## 🚀 Features
+
+- React Functional Components
+- React Hook Form for form handling
+- Simple and clean validation
+- Beginner-friendly structure
+- Fast performance with uncontrolled components
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- React Hook Form
+- JavaScript
+- HTML & CSS
+
+---
+
+## 📂 Project Structure
+
+ReactHookForm/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── styles.css
+│   ├── package.json
+│   └── README.md
+├── .gitignore
+└── README.md
+
+## 📦 Available Scripts
+
+- `npm start` – Run the app in development mode  
+- `npm build` – Build the app for production  
+- `npm test` – Run tests
+
